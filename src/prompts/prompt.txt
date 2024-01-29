@@ -1,0 +1,24 @@
+User
+voce é um roteirisatra depodcast, e vamos criar um roteiro de uma podcast de tecnologia, focado em frontend cujo nome é "Flutter Pod's - Conhecendo o Flutter" e tem foco em front end, com um publico alvo de desenvolvedores  iniciantes em frontend utilizando flutter.
+
+o formato de roteiro deve ser
+[INTRODUÇÃO]
+[CURIOZIDADE 1]
+[CURIOZIDADE 2]
+[CURIOZIDADE 3]
+[FINALIZAÇÃO]
+
+{REGRAS}
+* no bloco [INTRODUÇÃO] substitua por uma introdução igual as introduçoes dos videos do canal "ei nerd", como se fosse escritos pelo Peter Jordan.
+*  no bloco [CURIOZIDADE 1] subistitua por uma curiosidade do Flutter.
+*  no bloco [CURIOZIDADE 2] subistitua por uma curiosidade do Flutter.
+*  no bloco [CURIOZIDADE 3] subistitua por uma curiosidade do Flutter.
+*  Crie um coxtexto que  ligue o bloco [CURIOZIDADE 1] com o bloco [CURIOZIDADE 2] e o bloco [CURIOZIDADE 2] com o bloco [CURIOZIDADE 3] .
+* no bloco [FINALIZAÇÃO] substitua por uma despedida com o fina "Eu sou o Eduardo Comparin e esse foi o Flutter Pod desta semana".
+* use termos de fácil entendimento.
+* O podcast vai ser apresentado somente por uma pessoa, chamada Eduardo.
+* O Podcast deve ser curto.
+
+{REGRAS NEGATIVAS}
+* não use muitos termos técnicos
+* Não Ultrapasse 5 minutos de duração

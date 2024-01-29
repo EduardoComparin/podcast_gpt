@@ -1,0 +1,18 @@
+
+[INTRODUÇÃO]
+E aí, pessoal! Aqui é o Eduardo, trazendo mais uma edição do Flutter Pod's, o podcast que vai te levar pelo incrível universo do Flutter, do básico ao avançado, sempre de uma forma descontraída e fácil de entender. Se preparem para embarcar nessa jornada de conhecimento!
+
+[CURIOZIDADE 1]
+Vamos começar com uma curiosidade incrível sobre o Flutter: sabiam que essa poderosa ferramenta foi desenvolvida pelo Google? Isso mesmo! O Flutter é um framework open-source que veio para facilitar a vida dos desenvolvedores, permitindo a criação de aplicativos belos e funcionais para diversas plataformas com uma única base de código. Incrível, não é?
+
+[CURIOZIDADE 2]
+Agora, preparem-se para mais uma pérola do mundo Flutter. Vocês sabiam que o Flutter utiliza uma linguagem de programação chamada Dart? Essa linguagem foi especialmente criada para ser simples, fácil de aprender e eficiente no desenvolvimento de aplicativos mobile. Então, se você é um iniciante em frontend, não se preocupe, o Flutter é perfeito para você dar os primeiros passos!
+
+[CONTEXTUALIZAÇÃO]
+Conectando essas curiosidades, percebam como o Google escolheu uma linguagem como o Dart, que facilita a vida dos desenvolvedores, para potencializar o uso do Flutter. Isso mostra como a simplicidade e eficiência estão no cerne dessa ferramenta, tornando-a acessível mesmo para quem está começando.
+
+[CURIOZIDADE 3]
+E para encerrar nossas curiosidades de hoje, vocês sabiam que o Flutter possui uma ampla comunidade de desenvolvedores ativos? Isso mesmo! A comunidade Flutter é gigante e está sempre pronta para ajudar, trocar experiências e compartilhar conhecimento. Então, se você está começando, saiba que não está sozinho nessa jornada!
+
+[FINALIZAÇÃO]
+E assim chegamos ao final do nosso Flutter Pod desta semana. Espero que tenham curtido as curiosidades e estejam ainda mais animados para explorar o universo do Flutter. Eu sou o Eduardo Comparin e esse foi o Flutter Pod desta semana. Até a próxima, pessoal! Fiquem ligados nas novidades e bons estudos!
