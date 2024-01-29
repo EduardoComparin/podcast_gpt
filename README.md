@@ -6,6 +6,13 @@
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 <div align="center">
+   
+    <audio
+  src="https://developer.mozilla.org/@api/deki/files/2926/=AudioTest_(1).ogg"
+  autoplay>
+  O seu navegador não suporta o elemento <code>audio</code>.
+</audio>
+    
     <audio src="output/podcast.mp3" controls title="Podcast editado">preview do podcast</audio>
 </div>
 
