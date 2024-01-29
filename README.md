@@ -5,13 +5,8 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-
-<p align="center">
-    preview do podcast
-</p>
-
 <div align="center">
-    <audio src="output/podcast.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/podcast.MP3" controls title="Podcast editado">preview do podcast</audio>
 </div>
 
 ## 💻 Tecnologias utilizadas no projeto
